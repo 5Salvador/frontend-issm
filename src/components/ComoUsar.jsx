@@ -26,7 +26,7 @@ const steps = [
 const InsuranceSteps = () => {
   return (
     <div className="max-w-6xl mx-auto px-4 py-12">
-      <h2 className="text-3xl font-semibold text-issmBlue text-center my-16">Como verificar seu seguro na APP</h2>
+      <h2 className="text-3xl font-semibold text-issmBlue text-center my-16">Como verificar seu seguro na nossa plataforma</h2>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
         {steps.map((step) => (
           <div
