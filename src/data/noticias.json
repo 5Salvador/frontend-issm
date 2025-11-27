@@ -5,7 +5,7 @@
         "date": "2024-06-15",
         "image": "/noticias/ISSM-1.jpg",
         "description":"O Instituto de Supervisão de Seguros de Moçambique lançou uma nova plataforma digital para facilitar o acesso às informações sobre seguros.",
-        "url":"https://www.issm.gov.mz/noticiaaaaa/"
+        "url":"https://www.issm.gov.mz/noticias/"
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "date": "2024-05-10",
         "image": "/noticias/ISSM-2.jpg",
         "description":"PR visita Stand do ISSM,IP na FACIM e elogia desempenho Em um claro sinal de reconhecimento ao trabalho realizado, o...",
-         "url":"https://www.issm.gov.mz/noticiaaaaa/"
+         "url":"https://www.issm.gov.mz/noticias/"
     },
     {
         "id": 3,
@@ -21,6 +21,6 @@
         "date": "02-10-2025",
         "image": "/noticias/ISSM-3.jpg",
         "description":"O Comité Nacional de Inclusão Financeira (CNIF) é o órgão de coordenação das entidadesenvolvidas na implementação da Estratégia Nacional de...",
-        "url":"https://www.issm.gov.mz/noticiaaaaa/"
+        "url":"https://www.issm.gov.mz/noticias/"
     }
 ]
