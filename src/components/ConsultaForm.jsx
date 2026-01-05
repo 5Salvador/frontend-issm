@@ -115,11 +115,11 @@ const ConsultaForm = () => {
           className="md:w-full bg-white rounded-sm p-2 outline-0 text-gray-500 uppercase"
           placeholder="ABC-123-MC"
         />
-        {/* <div className="transform scale-80">
+        <div className="transform scale-80">
           {" "}
           {/* Added wrapper div with scale transform */}
-          <ReCAPTCHA sitekey={reCAPTCHA} onChange={handleCaptchaChange} />
-        </div> */}
+          {/* <ReCAPTCHA sitekey={reCAPTCHA} onChange={handleCaptchaChange} /> */}
+        </div> 
 
         <button
           type="submit"
