@@ -27,10 +27,10 @@ const ConsultaForm = () => {
     setResult(null);
     setError(null);
 
-    if (!captchaValue) {
-      toast.warning("Por favor complete o reCAPTCHA");
-      return;
-    }
+    // if (!captchaValue) {
+    //   toast.warning("Por favor complete o reCAPTCHA");
+    //   return;
+    // }
 
     if (!matricula) {
       setError("Por favor, insira uma matrícula.");
@@ -115,11 +115,12 @@ const ConsultaForm = () => {
           className="md:w-full bg-white rounded-sm p-2 outline-0 text-gray-500 uppercase"
           placeholder="ABC-123-MC"
         />
-        <div className="transform scale-80">
+        {/* <div className="transform scale-80">
           {" "}
           {/* Added wrapper div with scale transform */}
           <ReCAPTCHA sitekey={reCAPTCHA} onChange={handleCaptchaChange} />
-        </div>
+        </div> */}
+      
 
         <button
           type="submit"
