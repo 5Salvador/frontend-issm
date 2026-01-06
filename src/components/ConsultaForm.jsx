@@ -46,7 +46,7 @@ const ConsultaForm = () => {
 
     try {
       const response = await fetch(
-        `http://localhost:5000/api/seguro/${matricula}`
+        `http://10.0.1.53:8081/api/seguro/${matricula}`
       );
       const data = await response.json();
 
